@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Software+Developer;Problem+Solver;Innovation+Enthusiast" />
   
   <h1> Enes ALADAĞ </h1>
 </div>
